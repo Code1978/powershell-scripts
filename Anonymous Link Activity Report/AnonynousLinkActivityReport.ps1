@@ -291,3 +291,4 @@ else
 
 #Disconnect Exchange Online session
 #Disconnect-ExchangeOnline -Confirm:$false -InformationAction Ignore -ErrorAction SilentlyContinue
+#pmt
